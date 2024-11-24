@@ -1,0 +1,7 @@
+C:\Users\Senati\Desktop\C#\AppFundamentos\AppFundamentos\bin\Debug\AppFundamentos.exe.config
+C:\Users\Senati\Desktop\C#\AppFundamentos\AppFundamentos\bin\Debug\AppFundamentos.exe
+C:\Users\Senati\Desktop\C#\AppFundamentos\AppFundamentos\bin\Debug\AppFundamentos.pdb
+C:\Users\Senati\Desktop\C#\AppFundamentos\AppFundamentos\obj\Debug\AppFundamentos.csproj.AssemblyReference.cache
+C:\Users\Senati\Desktop\C#\AppFundamentos\AppFundamentos\obj\Debug\AppFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Senati\Desktop\C#\AppFundamentos\AppFundamentos\obj\Debug\AppFundamentos.exe
+C:\Users\Senati\Desktop\C#\AppFundamentos\AppFundamentos\obj\Debug\AppFundamentos.pdb
