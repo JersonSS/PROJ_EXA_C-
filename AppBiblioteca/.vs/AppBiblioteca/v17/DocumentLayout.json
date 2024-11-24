@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Senati\\Desktop\\C#\\AppBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{919B31DD-5EA8-4433-A7EC-10801B1393C5}|BL\\BL.csproj|c:\\users\\senati\\desktop\\c#\\appbiblioteca\\bl\\autorbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919B31DD-5EA8-4433-A7EC-10801B1393C5}|BL\\BL.csproj|solutionrelative:bl\\autorbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D940919B-6FF1-4226-A83D-8217FDBF6708}|BE\\BE.csproj|c:\\users\\senati\\desktop\\c#\\appbiblioteca\\be\\autorbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D940919B-6FF1-4226-A83D-8217FDBF6708}|BE\\BE.csproj|solutionrelative:be\\autorbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEEDC1E-DA74-4622-A5B3-1B4C9F0730BF}|DB\\DB.csproj|c:\\users\\senati\\desktop\\c#\\appbiblioteca\\db\\connectiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EEEDC1E-DA74-4622-A5B3-1B4C9F0730BF}|DB\\DB.csproj|solutionrelative:db\\connectiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DB||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEEDC1E-DA74-4622-A5B3-1B4C9F0730BF}|DB\\DB.csproj|c:\\users\\senati\\desktop\\c#\\appbiblioteca\\db\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutorBL.cs",
+              "DocumentMoniker": "C:\\Users\\Senati\\Desktop\\C#\\AppBiblioteca\\BL\\AutorBL.cs",
+              "RelativeDocumentMoniker": "BL\\AutorBL.cs",
+              "ToolTip": "C:\\Users\\Senati\\Desktop\\C#\\AppBiblioteca\\BL\\AutorBL.cs",
+              "RelativeToolTip": "BL\\AutorBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:13:57.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DB",
+              "DocumentMoniker": "C:\\Users\\Senati\\Desktop\\C#\\AppBiblioteca\\DB\\DB.csproj",
+              "RelativeDocumentMoniker": "DB\\DB.csproj",
+              "ToolTip": "C:\\Users\\Senati\\Desktop\\C#\\AppBiblioteca\\DB\\DB.csproj",
+              "RelativeToolTip": "DB\\DB.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-24T17:45:54.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConnectionTest.cs",
+              "DocumentMoniker": "C:\\Users\\Senati\\Desktop\\C#\\AppBiblioteca\\DB\\ConnectionTest.cs",
+              "RelativeDocumentMoniker": "DB\\ConnectionTest.cs",
+              "ToolTip": "C:\\Users\\Senati\\Desktop\\C#\\AppBiblioteca\\DB\\ConnectionTest.cs",
+              "RelativeToolTip": "DB\\ConnectionTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:38:44.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutorBE.cs",
+              "DocumentMoniker": "C:\\Users\\Senati\\Desktop\\C#\\AppBiblioteca\\BE\\AutorBE.cs",
+              "RelativeDocumentMoniker": "BE\\AutorBE.cs",
+              "ToolTip": "C:\\Users\\Senati\\Desktop\\C#\\AppBiblioteca\\BE\\AutorBE.cs",
+              "RelativeToolTip": "BE\\AutorBE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:25:32.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

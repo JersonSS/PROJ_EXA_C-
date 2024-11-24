@@ -1,0 +1,6 @@
+C:\Users\Senati\Desktop\C#\AppBiblioteca\DB\bin\Debug\DB.exe
+C:\Users\Senati\Desktop\C#\AppBiblioteca\DB\bin\Debug\DB.pdb
+C:\Users\Senati\Desktop\C#\AppBiblioteca\DB\obj\Debug\DB.csproj.AssemblyReference.cache
+C:\Users\Senati\Desktop\C#\AppBiblioteca\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\Senati\Desktop\C#\AppBiblioteca\DB\obj\Debug\DB.exe
+C:\Users\Senati\Desktop\C#\AppBiblioteca\DB\obj\Debug\DB.pdb
