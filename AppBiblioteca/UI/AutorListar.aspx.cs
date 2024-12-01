@@ -27,5 +27,12 @@ namespace UI
 
             }
         }
+
+        protected void gvAutores_PageIndexChanging(object sender, GridViewPageEventArgs e)
+        {
+            gvAutores.PageIndex = e.NewPageIndex;
+            gvAutores.DataSource =autorBL.FindAll();
+            gvAutores.DataBind();
+        }
     }
 }

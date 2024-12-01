@@ -40,7 +40,7 @@
             <tr>
                      <td style="text-align:right; width:283px "></td>
                    <td style="text-align:left; width:220px ">
-                       <asp:Button ID="btnGuardar" runat="server" Text="Si, Borrar" OnClick="btnGuardar_Click" />
+                       <asp:Button ID="btnBorrar" runat="server" Text="Si, Borrar" OnClick="btnBorrar_Click" />
                        <asp:Button ID="btnCancelar" runat="server" Text="Cancelar" OnClick="btnCancelar_Click" />
                    </td>
                    <td>&nbsp;</td>

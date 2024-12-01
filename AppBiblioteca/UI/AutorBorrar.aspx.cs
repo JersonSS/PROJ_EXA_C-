@@ -11,7 +11,7 @@ using BE;
 
 namespace UI
 {
-    public partial class AutorBorrar : System.Web.UI.Page
+    public partial class AutorBorrar : Utilidades
     {
         private AutorBL autorBL = new AutorBL();
         protected void Page_Load(object sender, EventArgs e)
@@ -32,7 +32,8 @@ namespace UI
             Response.Redirect("~/AutorListar");
         }
 
-        protected void btnGuardar_Click(object sender, EventArgs e)
+
+        protected void btnBorrar_Click(object sender, EventArgs e)
         {
             int ID = Convert.ToInt32(txtID.Text);
 
@@ -42,12 +43,10 @@ namespace UI
                 autorBL.delete(ID);
                 Response.Redirect("~/AutorListar");
             }
-            else 
+            else
             {
-                //mensaje borrar
+                MessageBox("Error, no se puede por que esta asociado");
             }
-
-
         }
     }
 }

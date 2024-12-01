@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Senati\\Desktop\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|c:\\users\\senati\\desktop\\project visual studio\\proj_exa_c-\\appbiblioteca\\ui\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|solutionrelative:ui\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|c:\\users\\senati\\desktop\\project visual studio\\proj_exa_c-\\appbiblioteca\\ui\\autorborrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|solutionrelative:ui\\autorborrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{919B31DD-5EA8-4433-A7EC-10801B1393C5}|BL\\BL.csproj|c:\\users\\senati\\desktop\\project visual studio\\proj_exa_c-\\appbiblioteca\\bl\\autorbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{919B31DD-5EA8-4433-A7EC-10801B1393C5}|BL\\BL.csproj|solutionrelative:bl\\autorbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|c:\\users\\senati\\desktop\\project visual studio\\proj_exa_c-\\appbiblioteca\\ui\\autorregistrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|solutionrelative:ui\\autorregistrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|c:\\users\\senati\\desktop\\project visual studio\\proj_exa_c-\\appbiblioteca\\ui\\autorregistrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|solutionrelative:ui\\autorregistrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|c:\\users\\senati\\desktop\\project visual studio\\proj_exa_c-\\appbiblioteca\\ui\\autoreditar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|solutionrelative:ui\\autoreditar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|c:\\users\\senati\\desktop\\project visual studio\\proj_exa_c-\\appbiblioteca\\ui\\autorborrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|solutionrelative:ui\\autorborrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|c:\\users\\senati\\desktop\\project visual studio\\proj_exa_c-\\appbiblioteca\\ui\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|solutionrelative:ui\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|c:\\users\\senati\\desktop\\project visual studio\\proj_exa_c-\\appbiblioteca\\ui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|solutionrelative:ui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,105 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Utilidades.cs",
-              "DocumentMoniker": "C:\\Users\\Senati\\Desktop\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\Utilidades.cs",
-              "RelativeDocumentMoniker": "UI\\Utilidades.cs",
-              "ToolTip": "C:\\Users\\Senati\\Desktop\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\Utilidades.cs",
-              "RelativeToolTip": "UI\\Utilidades.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T16:14:39.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AutorBL.cs",
-              "DocumentMoniker": "C:\\Users\\Senati\\Desktop\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\BL\\AutorBL.cs",
-              "RelativeDocumentMoniker": "BL\\AutorBL.cs",
-              "ToolTip": "C:\\Users\\Senati\\Desktop\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\BL\\AutorBL.cs",
-              "RelativeToolTip": "BL\\AutorBL.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAANAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T15:36:47.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AutorBorrar.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Senati\\Desktop\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\AutorBorrar.aspx.cs",
-              "RelativeDocumentMoniker": "UI\\AutorBorrar.aspx.cs",
-              "ToolTip": "C:\\Users\\Senati\\Desktop\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\AutorBorrar.aspx.cs",
-              "RelativeToolTip": "UI\\AutorBorrar.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T15:35:45.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AutorRegistrar.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Senati\\Desktop\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\AutorRegistrar.aspx.cs",
-              "RelativeDocumentMoniker": "UI\\AutorRegistrar.aspx.cs",
-              "ToolTip": "C:\\Users\\Senati\\Desktop\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\AutorRegistrar.aspx.cs",
-              "RelativeToolTip": "UI\\AutorRegistrar.aspx.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAIA1wCwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T15:35:06.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AutorRegistrar.aspx",
-              "DocumentMoniker": "C:\\Users\\Senati\\Desktop\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\AutorRegistrar.aspx",
-              "RelativeDocumentMoniker": "UI\\AutorRegistrar.aspx",
-              "ToolTip": "C:\\Users\\Senati\\Desktop\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\AutorRegistrar.aspx",
-              "RelativeToolTip": "UI\\AutorRegistrar.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-12-01T15:34:58.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AutorBorrar.aspx",
-              "DocumentMoniker": "C:\\Users\\Senati\\Desktop\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\AutorBorrar.aspx",
-              "RelativeDocumentMoniker": "UI\\AutorBorrar.aspx",
-              "ToolTip": "C:\\Users\\Senati\\Desktop\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\AutorBorrar.aspx",
-              "RelativeToolTip": "UI\\AutorBorrar.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-12-01T15:34:37.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AutorEditar.aspx",
-              "DocumentMoniker": "C:\\Users\\Senati\\Desktop\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\AutorEditar.aspx",
-              "RelativeDocumentMoniker": "UI\\AutorEditar.aspx",
-              "ToolTip": "C:\\Users\\Senati\\Desktop\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\AutorEditar.aspx",
-              "RelativeToolTip": "UI\\AutorEditar.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-12-01T15:04:28.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Site.Master",
-              "DocumentMoniker": "C:\\Users\\Senati\\Desktop\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\Site.Master",
-              "RelativeDocumentMoniker": "UI\\Site.Master",
-              "ToolTip": "C:\\Users\\Senati\\Desktop\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\Site.Master",
-              "RelativeToolTip": "UI\\Site.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-12-01T13:54:44.132Z",
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Senati\\Desktop\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\Web.config",
+              "RelativeDocumentMoniker": "UI\\Web.config",
+              "ToolTip": "C:\\Users\\Senati\\Desktop\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\Web.config",
+              "RelativeToolTip": "UI\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-01T18:32:58.156Z",
               "EditorCaption": ""
             }
           ]

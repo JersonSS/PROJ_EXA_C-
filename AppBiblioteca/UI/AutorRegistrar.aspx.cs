@@ -10,32 +10,50 @@ using BL;
 
 namespace UI
 {
-    public partial class AutorRegistrar : System.Web.UI.Page
+    public partial class AutorRegistrar : Utilidades
     {
 
         //referencia
         private AutorBL autorBL = new AutorBL();
+        private PaisBL paisBL = new PaisBL();
 
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (!Page.IsPostBack) 
+            {
+                ddlNacionalidad.DataSource = paisBL.FindAll();
+                ddlNacionalidad.DataValueField = "ID";
+                ddlNacionalidad.DataTextField = "Descripcion";
+                ddlNacionalidad.DataBind();
+                
+            }
 
         }
 
         protected void btnGuardar_Click(object sender, EventArgs e)
         {
-            //entrada
-            string apellido = txtApellido.Text;
-            string nombre = txtNombre.Text;
-            DateTime fechaNacimiento = Convert.ToDateTime(txtFechaNacimiento.Text);
-            int nacionalidad = Convert.ToInt32(txtNacionalidad.Text);
-
-            //proceso
-            AutorBE autorBE = new AutorBE(apellido, nombre, fechaNacimiento, nacionalidad);
-            autorBL.insert(autorBE);
+            if (Page.IsValid)
+            {
+                //entrada
+                string apellido = txtApellido.Text;
+                string nombre = txtNombre.Text;
+                DateTime fechaNacimiento = Convert.ToDateTime(txtFechaNacimiento.Text);
 
 
-            //salida
-            Response.Redirect("~/Default");
+                int nacionalidad = Convert.ToInt32(ddlNacionalidad.SelectedValue.ToString());
+
+                //proceso
+                AutorBE autorBE = new AutorBE(apellido, nombre, fechaNacimiento, nacionalidad);
+                autorBL.insert(autorBE);
+
+
+                //salida
+                Response.Redirect("~/Default");
+            }
+            else {
+                MessageBox("Error,campo no validados");
+            }
+            
 
 
         }

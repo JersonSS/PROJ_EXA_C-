@@ -12,7 +12,7 @@
     </div>
         
     <div align="center">   
-        <asp:GridView ID="gvAutores" AutoGenerateColumns="false" runat="server" ForeColor="Black" BackColor="LightGoldenrodYellow" BorderColor="Tan" BorderWidth="1px" CellPadding="2" GridLines="None">
+        <asp:GridView ID="gvAutores" AutoGenerateColumns="false" runat="server" ForeColor="Black" BackColor="LightGoldenrodYellow" BorderColor="Tan" BorderWidth="1px" CellPadding="2" GridLines="None" AllowPaging="True" OnPageIndexChanging="gvAutores_PageIndexChanging" PageSize="5">
             
             <Columns>
                 <asp:BoundField DataField="ID" HeaderText="ID" SortExpression="ID"/>
