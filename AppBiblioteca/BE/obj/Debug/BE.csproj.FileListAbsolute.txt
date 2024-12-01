@@ -4,3 +4,9 @@ C:\Users\Jerson\Desktop\Semestre5\Lenguaje de Programacion 2\project visual stud
 C:\Users\Jerson\Desktop\Semestre5\Lenguaje de Programacion 2\project visual studio\PROJ_EXA_C-\AppBiblioteca\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
 C:\Users\Jerson\Desktop\Semestre5\Lenguaje de Programacion 2\project visual studio\PROJ_EXA_C-\AppBiblioteca\BE\obj\Debug\BE.dll
 C:\Users\Jerson\Desktop\Semestre5\Lenguaje de Programacion 2\project visual studio\PROJ_EXA_C-\AppBiblioteca\BE\obj\Debug\BE.pdb
+C:\Users\Senati\Desktop\project visual studio\PROJ_EXA_C-\AppBiblioteca\BE\bin\Debug\BE.dll
+C:\Users\Senati\Desktop\project visual studio\PROJ_EXA_C-\AppBiblioteca\BE\bin\Debug\BE.pdb
+C:\Users\Senati\Desktop\project visual studio\PROJ_EXA_C-\AppBiblioteca\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Senati\Desktop\project visual studio\PROJ_EXA_C-\AppBiblioteca\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Senati\Desktop\project visual studio\PROJ_EXA_C-\AppBiblioteca\BE\obj\Debug\BE.dll
+C:\Users\Senati\Desktop\project visual studio\PROJ_EXA_C-\AppBiblioteca\BE\obj\Debug\BE.pdb

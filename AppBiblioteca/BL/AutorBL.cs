@@ -28,7 +28,7 @@ namespace BL
                 //Load parameters
                 sqlCommand.Parameters.AddWithValue("@Apellido", autorBE.Apellido);
                 sqlCommand.Parameters.AddWithValue("@Nombre", autorBE.Nombre);
-                sqlCommand.Parameters.AddWithValue("@FechaNacimiento", autorBE.FechaNacimineto);
+                sqlCommand.Parameters.AddWithValue("@FechaNacimiento", autorBE.FechaNacimiento);
                 sqlCommand.Parameters.AddWithValue("@Nacionalidad", autorBE.Nacionalidad);
 
 
@@ -48,12 +48,12 @@ namespace BL
 
                 //SQL insert
                 SqlCommand sqlCommand = sqlConnection.CreateCommand();
-                sqlCommand.CommandText = "update Autores set Apellido=@Apellido, Nombre=@Nombre, FechaNacimiento=@FechaNacimiento, Nacionalidad=@Nacionaliadad where ID=@ID";
+                sqlCommand.CommandText = "update Autores set Apellido=@Apellido, Nombre=@Nombre, FechaNacimiento=@FechaNacimiento, Nacionalidad=@Nacionalidad where ID=@ID";
 
                 //Load parameters
                 sqlCommand.Parameters.AddWithValue("@Apellido", autorBE.Apellido);
                 sqlCommand.Parameters.AddWithValue("@Nombre", autorBE.Nombre);
-                sqlCommand.Parameters.AddWithValue("@FechaNacimiento", autorBE.FechaNacimineto);
+                sqlCommand.Parameters.AddWithValue("@FechaNacimiento", autorBE.FechaNacimiento);
                 sqlCommand.Parameters.AddWithValue("@Nacionalidad", autorBE.Nacionalidad);
                 sqlCommand.Parameters.AddWithValue("@ID", autorBE.ID);
 
@@ -79,6 +79,7 @@ namespace BL
                 //Load parameters
                 sqlCommand.Parameters.AddWithValue("@ID",autorID);
 
+                
 
 
                 //execute
@@ -116,7 +117,7 @@ namespace BL
                     autorBE.ID = sqlDataReader.GetInt32(0);
                     autorBE.Apellido = sqlDataReader.GetString(1);
                     autorBE.Nombre = sqlDataReader.GetString(2);
-                    autorBE.FechaNacimineto = sqlDataReader.GetDateTime(3);
+                    autorBE.FechaNacimiento = sqlDataReader.GetDateTime(3);
                     autorBE.Nacionalidad =sqlDataReader.GetInt32(4);
                 }
                 
@@ -157,7 +158,7 @@ namespace BL
                     autorBE.ID = sqlDataReader.GetInt32(0);
                     autorBE.Apellido = sqlDataReader.GetString(1);
                     autorBE.Nombre = sqlDataReader.GetString(2);
-                    autorBE.FechaNacimineto = sqlDataReader.GetDateTime(3);
+                    autorBE.FechaNacimiento = sqlDataReader.GetDateTime(3);
                     autorBE.Nacionalidad = sqlDataReader.GetInt32(4);
 
                     list.Add(autorBE);
@@ -171,7 +172,37 @@ namespace BL
             return list;
         }
 
+        public bool isDelete(int autorID) 
+        {
+            bool delete = true;
 
+            using (SqlConnection sqlConnection = new SqlConnection(ConnectionDB.SQLServer()))
+            {
+                sqlConnection.Open();
+
+                //SQL insert
+                SqlCommand sqlCommand = sqlConnection.CreateCommand();
+                sqlCommand.CommandText = "select * from LibrosAutores where IdAutor=@ID";
+
+                //Load parameters
+                sqlCommand.Parameters.AddWithValue("@ID", autorID);
+
+                //execute
+                SqlDataReader sqlDataReader = sqlCommand.ExecuteReader();
+
+                while (sqlDataReader.Read())
+                {
+                    delete = false;
+                    break;
+                }
+
+                sqlDataReader.Close();
+                sqlConnection.Close();
+
+            }
+
+            return delete;
+        }
 
     }
 }

@@ -10,12 +10,12 @@ namespace BE
     {
         public AutorBE() { }
 
-        public AutorBE( string apellido, string nombre, DateTime fechaNacimineto, int nacionalidad)
+        public AutorBE( string apellido, string nombre, DateTime fechaNacimiento, int nacionalidad)
         {
             
             Apellido = apellido;
             Nombre = nombre;
-            FechaNacimineto = fechaNacimineto;
+            FechaNacimiento = fechaNacimiento;
             Nacionalidad = nacionalidad;
         }
 
@@ -24,14 +24,14 @@ namespace BE
             ID = iD;
             Apellido = apellido;
             Nombre = nombre;
-            FechaNacimineto = fechaNacimineto;
+            FechaNacimiento = fechaNacimineto;
             Nacionalidad = nacionalidad;
         }
 
         public int ID { get; set; }
         public string Apellido { get; set; }
         public string Nombre { get; set; }
-        public DateTime FechaNacimineto { get; set; } 
+        public DateTime FechaNacimiento { get; set; } 
         public int Nacionalidad { get; set; }
     }
 }

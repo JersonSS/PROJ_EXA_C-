@@ -161,6 +161,8 @@
     <Content Include="Account\ResetPasswordConfirmation.aspx" />
     <Content Include="Account\TwoFactorAuthenticationSignIn.aspx" />
     <Content Include="Account\VerifyPhoneNumber.aspx" />
+    <Content Include="AutorBorrar.aspx" />
+    <Content Include="AutorEditar.aspx" />
     <Content Include="AutorListar.aspx" />
     <Content Include="AutorRegistrar.aspx" />
     <Content Include="Contact.aspx" />
@@ -363,6 +365,20 @@
     <Compile Include="App_Start\IdentityConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
+    <Compile Include="AutorBorrar.aspx.cs">
+      <DependentUpon>AutorBorrar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AutorBorrar.aspx.designer.cs">
+      <DependentUpon>AutorBorrar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AutorEditar.aspx.cs">
+      <DependentUpon>AutorEditar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AutorEditar.aspx.designer.cs">
+      <DependentUpon>AutorEditar.aspx</DependentUpon>
+    </Compile>
     <Compile Include="AutorListar.aspx.cs">
       <DependentUpon>AutorListar.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -411,6 +427,9 @@
       <DependentUpon>Site.Mobile.Master</DependentUpon>
     </Compile>
     <Compile Include="Startup.cs" />
+    <Compile Include="Utilidades.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
     <Compile Include="ViewSwitcher.ascx.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
