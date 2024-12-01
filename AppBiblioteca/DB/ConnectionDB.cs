@@ -15,17 +15,22 @@ namespace DB
         {
             SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder();
 
-            //servidor
-            builder.DataSource = "Admin";
+            //servidor senati
+            //builder.DataSource = "Admin";
+
+            //servidor yo
+            builder.DataSource = "DESKTOP-S98UCTP\\SQLEXPRESS"; 
 
             //base de datos
             builder.InitialCatalog = "Biblioteca";
 
-            //usuario
-            builder.UserID = "sa";
+            //usuario y contraseña senati
+            //builder.UserID = "sa";
+            //builder.Password = "123";
 
-            //contraseña
-            builder.Password = "123";
+            //usuario y contraseña yo
+            builder.UserID = "jersonss";
+            builder.Password = "1234";
 
             //login SQL Server Authentication
             builder.IntegratedSecurity = false;

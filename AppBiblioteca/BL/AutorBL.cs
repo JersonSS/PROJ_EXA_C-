@@ -23,7 +23,7 @@ namespace BL
 
                 //SQL insert
                 SqlCommand sqlCommand = sqlConnection.CreateCommand();
-                sqlCommand.CommandText = "insert into Autores values(@Apellido, @Nombre, @FechaNacimiento, @Nacionaliadad)";
+                sqlCommand.CommandText = "insert into Autores values(@Apellido, @Nombre, @FechaNacimiento, @Nacionalidad)";
 
                 //Load parameters
                 sqlCommand.Parameters.AddWithValue("@Apellido", autorBE.Apellido);
@@ -87,6 +87,90 @@ namespace BL
 
             }
         }
+
+        public AutorBE FindById(int autorID) 
+        {
+            AutorBE autorBE = null;
+
+            //conexion DB
+            using (SqlConnection sqlConnection = new SqlConnection(ConnectionDB.SQLServer()))
+            {
+                sqlConnection.Open();
+
+                //SQL insert
+                SqlCommand sqlCommand = sqlConnection.CreateCommand();
+                sqlCommand.CommandText = "select * from Autores where ID=@ID";
+
+                //Load parameters
+                sqlCommand.Parameters.AddWithValue("@ID", autorID);
+
+
+
+                //execute
+                SqlDataReader sqlDataReader = sqlCommand.ExecuteReader();
+
+                if (sqlDataReader.Read()) 
+                {
+                    autorBE = new AutorBE();
+
+                    autorBE.ID = sqlDataReader.GetInt32(0);
+                    autorBE.Apellido = sqlDataReader.GetString(1);
+                    autorBE.Nombre = sqlDataReader.GetString(2);
+                    autorBE.FechaNacimineto = sqlDataReader.GetDateTime(3);
+                    autorBE.Nacionalidad =sqlDataReader.GetInt32(4);
+                }
+                
+                sqlDataReader.Close();
+                sqlConnection.Close();
+
+
+
+            }
+
+            return autorBE;
+
+
+        }
+
+
+        public List<AutorBE> FindAll()
+        { 
+            List<AutorBE> list = new List<AutorBE>();
+
+            using (SqlConnection sqlConnection = new SqlConnection(ConnectionDB.SQLServer()))
+            {
+                sqlConnection.Open();
+
+                //SQL insert
+                SqlCommand sqlCommand = sqlConnection.CreateCommand();
+                sqlCommand.CommandText = "select * from Autores";
+
+
+
+                //execute
+                SqlDataReader sqlDataReader = sqlCommand.ExecuteReader();
+
+                while (sqlDataReader.Read())
+                {
+                    AutorBE autorBE = new AutorBE();
+
+                    autorBE.ID = sqlDataReader.GetInt32(0);
+                    autorBE.Apellido = sqlDataReader.GetString(1);
+                    autorBE.Nombre = sqlDataReader.GetString(2);
+                    autorBE.FechaNacimineto = sqlDataReader.GetDateTime(3);
+                    autorBE.Nacionalidad = sqlDataReader.GetInt32(4);
+
+                    list.Add(autorBE);
+
+                }
+
+                sqlDataReader.Close();
+                sqlConnection.Close();
+            }
+
+            return list;
+        }
+
 
 
     }
