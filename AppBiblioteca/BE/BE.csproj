@@ -42,6 +42,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AutorBE.cs" />
+    <Compile Include="EditorialBE.cs" />
+    <Compile Include="GeneroBE.cs" />
+    <Compile Include="LibroBE.cs" />
     <Compile Include="PaisBE.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

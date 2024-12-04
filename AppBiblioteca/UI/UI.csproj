@@ -184,8 +184,20 @@
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
+    <Content Include="EditorialBorrar.aspx" />
+    <Content Include="EditorialEditar.aspx" />
+    <Content Include="EditorialListar.aspx" />
+    <Content Include="EditorialRegistrar.aspx" />
     <Content Include="favicon.ico" />
+    <Content Include="GeneroBorrar.aspx" />
+    <Content Include="GeneroEditar.aspx" />
+    <Content Include="GeneroListar.aspx" />
+    <Content Include="GeneroRegistrar.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="LibroBorrar.aspx" />
+    <Content Include="LibroEditar.aspx" />
+    <Content Include="LibroListar.aspx" />
+    <Content Include="LibroRegistrar.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -407,8 +419,92 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
+    <Compile Include="EditorialBorrar.aspx.cs">
+      <DependentUpon>EditorialBorrar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditorialBorrar.aspx.designer.cs">
+      <DependentUpon>EditorialBorrar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditorialEditar.aspx.cs">
+      <DependentUpon>EditorialEditar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditorialEditar.aspx.designer.cs">
+      <DependentUpon>EditorialEditar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditorialListar.aspx.cs">
+      <DependentUpon>EditorialListar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditorialListar.aspx.designer.cs">
+      <DependentUpon>EditorialListar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditorialRegistrar.aspx.cs">
+      <DependentUpon>EditorialRegistrar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditorialRegistrar.aspx.designer.cs">
+      <DependentUpon>EditorialRegistrar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GeneroBorrar.aspx.cs">
+      <DependentUpon>GeneroBorrar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GeneroBorrar.aspx.designer.cs">
+      <DependentUpon>GeneroBorrar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GeneroEditar.aspx.cs">
+      <DependentUpon>GeneroEditar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GeneroEditar.aspx.designer.cs">
+      <DependentUpon>GeneroEditar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GeneroListar.aspx.cs">
+      <DependentUpon>GeneroListar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GeneroListar.aspx.designer.cs">
+      <DependentUpon>GeneroListar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GeneroRegistrar.aspx.cs">
+      <DependentUpon>GeneroRegistrar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GeneroRegistrar.aspx.designer.cs">
+      <DependentUpon>GeneroRegistrar.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="LibroBorrar.aspx.cs">
+      <DependentUpon>LibroBorrar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LibroBorrar.aspx.designer.cs">
+      <DependentUpon>LibroBorrar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LibroEditar.aspx.cs">
+      <DependentUpon>LibroEditar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LibroEditar.aspx.designer.cs">
+      <DependentUpon>LibroEditar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LibroListar.aspx.cs">
+      <DependentUpon>LibroListar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LibroListar.aspx.designer.cs">
+      <DependentUpon>LibroListar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LibroRegistrar.aspx.cs">
+      <DependentUpon>LibroRegistrar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LibroRegistrar.aspx.designer.cs">
+      <DependentUpon>LibroRegistrar.aspx</DependentUpon>
     </Compile>
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

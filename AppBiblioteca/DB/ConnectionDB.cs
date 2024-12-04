@@ -19,18 +19,18 @@ namespace DB
             //builder.DataSource = "Admin";
 
             //servidor yo
-            //builder.DataSource = "DESKTOP-S98UCTP\\SQLEXPRESS"; 
+            builder.DataSource = "DESKTOP-S98UCTP\\SQLEXPRESS"; 
 
             //base de datos
             builder.InitialCatalog = "Biblioteca";
 
             //usuario y contraseña senati
-            builder.UserID = "sa";
-            builder.Password = "123";
+            //builder.UserID = "sa";
+            //builder.Password = "123";
 
             //usuario y contraseña yo
-            //builder.UserID = "jersonss";
-            //builder.Password = "1234";
+            builder.UserID = "jersonss";
+            builder.Password = "1234";
 
             //login SQL Server Authentication
             builder.IntegratedSecurity = false;
