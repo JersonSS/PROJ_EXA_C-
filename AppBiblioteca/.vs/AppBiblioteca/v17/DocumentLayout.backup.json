@@ -3,40 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|c:\\users\\jerson\\desktop\\semestre5\\lenguaje de programacion 2\\project visual studio\\proj_exa_c-\\appbiblioteca\\ui\\libroregistrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|solutionrelative:ui\\libroregistrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|c:\\users\\jerson\\desktop\\semestre5\\lenguaje de programacion 2\\project visual studio\\proj_exa_c-\\appbiblioteca\\ui\\autorlistar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|solutionrelative:ui\\autorlistar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{919B31DD-5EA8-4433-A7EC-10801B1393C5}|BL\\BL.csproj|c:\\users\\jerson\\desktop\\semestre5\\lenguaje de programacion 2\\project visual studio\\proj_exa_c-\\appbiblioteca\\bl\\librobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{919B31DD-5EA8-4433-A7EC-10801B1393C5}|BL\\BL.csproj|solutionrelative:bl\\librobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|c:\\users\\jerson\\desktop\\semestre5\\lenguaje de programacion 2\\project visual studio\\proj_exa_c-\\appbiblioteca\\ui\\autorlistar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|solutionrelative:ui\\autorlistar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|c:\\users\\jerson\\desktop\\semestre5\\lenguaje de programacion 2\\project visual studio\\proj_exa_c-\\appbiblioteca\\ui\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|solutionrelative:ui\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|c:\\users\\jerson\\desktop\\semestre5\\lenguaje de programacion 2\\project visual studio\\proj_exa_c-\\appbiblioteca\\ui\\libroeditar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|solutionrelative:ui\\libroeditar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|c:\\users\\jerson\\desktop\\semestre5\\lenguaje de programacion 2\\project visual studio\\proj_exa_c-\\appbiblioteca\\ui\\libroregistrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|solutionrelative:ui\\libroregistrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|c:\\users\\jerson\\desktop\\semestre5\\lenguaje de programacion 2\\project visual studio\\proj_exa_c-\\appbiblioteca\\ui\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|solutionrelative:ui\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|c:\\users\\jerson\\desktop\\semestre5\\lenguaje de programacion 2\\project visual studio\\proj_exa_c-\\appbiblioteca\\ui\\autorregistrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|solutionrelative:ui\\autorregistrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|c:\\users\\jerson\\desktop\\semestre5\\lenguaje de programacion 2\\project visual studio\\proj_exa_c-\\appbiblioteca\\ui\\autorborrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|solutionrelative:ui\\autorborrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|c:\\users\\jerson\\desktop\\semestre5\\lenguaje de programacion 2\\project visual studio\\proj_exa_c-\\appbiblioteca\\ui\\autorborrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B38E9D6E-35AD-4C49-817E-C17E49C0CECC}|UI\\UI.csproj|solutionrelative:ui\\autorborrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{919B31DD-5EA8-4433-A7EC-10801B1393C5}|BL\\BL.csproj|c:\\users\\jerson\\desktop\\semestre5\\lenguaje de programacion 2\\project visual studio\\proj_exa_c-\\appbiblioteca\\bl\\autorbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919B31DD-5EA8-4433-A7EC-10801B1393C5}|BL\\BL.csproj|solutionrelative:bl\\autorbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,130 +21,46 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 225,
+          "DockedWidth": 192,
           "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AutorRegistrar.aspx",
-              "DocumentMoniker": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\AutorRegistrar.aspx",
-              "RelativeDocumentMoniker": "UI\\AutorRegistrar.aspx",
-              "ToolTip": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\AutorRegistrar.aspx",
-              "RelativeToolTip": "UI\\AutorRegistrar.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-12-04T02:07:15.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LibroBL.cs",
-              "DocumentMoniker": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\BL\\LibroBL.cs",
-              "RelativeDocumentMoniker": "BL\\LibroBL.cs",
-              "ToolTip": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\BL\\LibroBL.cs",
-              "RelativeToolTip": "BL\\LibroBL.cs",
-              "ViewState": "AgIAANIAAAAAAAAAAAAQwOYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AutorBL.cs",
+              "DocumentMoniker": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\BL\\AutorBL.cs",
+              "RelativeDocumentMoniker": "BL\\AutorBL.cs",
+              "ToolTip": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\BL\\AutorBL.cs",
+              "RelativeToolTip": "BL\\AutorBL.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T03:02:29.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AutorBorrar.aspx",
-              "DocumentMoniker": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\AutorBorrar.aspx",
-              "RelativeDocumentMoniker": "UI\\AutorBorrar.aspx",
-              "ToolTip": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\AutorBorrar.aspx",
-              "RelativeToolTip": "UI\\AutorBorrar.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-12-04T04:06:21.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AutorBorrar.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\AutorBorrar.aspx.cs",
-              "RelativeDocumentMoniker": "UI\\AutorBorrar.aspx.cs",
-              "ToolTip": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\AutorBorrar.aspx.cs",
-              "RelativeToolTip": "UI\\AutorBorrar.aspx.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T04:06:24.332Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 193,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Utilidades.cs",
-              "DocumentMoniker": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\Utilidades.cs",
-              "RelativeDocumentMoniker": "UI\\Utilidades.cs",
-              "ToolTip": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\Utilidades.cs",
-              "RelativeToolTip": "UI\\Utilidades.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T04:05:07.308Z",
+              "WhenOpened": "2024-12-04T05:03:53.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LibroRegistrar.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\LibroRegistrar.aspx.cs",
-              "RelativeDocumentMoniker": "UI\\LibroRegistrar.aspx.cs",
-              "ToolTip": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\LibroRegistrar.aspx.cs",
-              "RelativeToolTip": "UI\\LibroRegistrar.aspx.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAADoAAAAzAAAAAAAAAA==",
+              "Title": "AutorListar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\AutorListar.aspx.cs",
+              "RelativeDocumentMoniker": "UI\\AutorListar.aspx.cs",
+              "ToolTip": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\AutorListar.aspx.cs",
+              "RelativeToolTip": "UI\\AutorListar.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T04:03:57.029Z",
+              "WhenOpened": "2024-12-04T05:02:29.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Site.Master",
-              "DocumentMoniker": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\Site.Master",
-              "RelativeDocumentMoniker": "UI\\Site.Master",
-              "ToolTip": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\Site.Master",
-              "RelativeToolTip": "UI\\Site.Master",
+              "DocumentIndex": 1,
+              "Title": "AutorListar.aspx",
+              "DocumentMoniker": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\AutorListar.aspx",
+              "RelativeDocumentMoniker": "UI\\AutorListar.aspx",
+              "ToolTip": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\AutorListar.aspx",
+              "RelativeToolTip": "UI\\AutorListar.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-12-04T03:55:22.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LibroEditar.aspx",
-              "DocumentMoniker": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\LibroEditar.aspx",
-              "RelativeDocumentMoniker": "UI\\LibroEditar.aspx",
-              "ToolTip": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\LibroEditar.aspx",
-              "RelativeToolTip": "UI\\LibroEditar.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-12-04T02:51:39.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LibroRegistrar.aspx",
-              "DocumentMoniker": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\LibroRegistrar.aspx",
-              "RelativeDocumentMoniker": "UI\\LibroRegistrar.aspx",
-              "ToolTip": "C:\\Users\\Jerson\\Desktop\\Semestre5\\Lenguaje de Programacion 2\\project visual studio\\PROJ_EXA_C-\\AppBiblioteca\\UI\\LibroRegistrar.aspx",
-              "RelativeToolTip": "UI\\LibroRegistrar.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-12-04T02:51:20.77Z",
+              "WhenOpened": "2024-12-04T04:57:12.718Z",
               "EditorCaption": ""
             }
           ]

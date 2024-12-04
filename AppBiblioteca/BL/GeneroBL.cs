@@ -136,7 +136,7 @@ namespace BL
 
                 //SQL insert
                 SqlCommand sqlCommand = sqlConnection.CreateCommand();
-                sqlCommand.CommandText = "select * from Generos";
+                sqlCommand.CommandText = "select * from Generos order by ID";
 
 
 
