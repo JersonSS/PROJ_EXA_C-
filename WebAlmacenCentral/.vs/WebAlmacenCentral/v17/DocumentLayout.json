@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jerson\\Desktop\\admin.git.C\\PROJ_EXA_C-\\WebAlmacenCentral\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34E7F52E-39B3-4223-8403-AD9138D97AD9}|AppWebAlmacenCentral\\UI.csproj|c:\\users\\jerson\\desktop\\admin.git.c\\proj_exa_c-\\webalmacencentral\\appwebalmacencentral\\proveedorborrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E7F52E-39B3-4223-8403-AD9138D97AD9}|AppWebAlmacenCentral\\UI.csproj|solutionrelative:appwebalmacencentral\\proveedorborrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BA518D-5311-454C-8172-7241661779FD}|BL\\BL.csproj|C:\\Users\\Jerson\\Desktop\\admin.git.C\\PROJ_EXA_C-\\WebAlmacenCentral\\bl\\proveedorbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BA518D-5311-454C-8172-7241661779FD}|BL\\BL.csproj|solutionrelative:bl\\proveedorbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E7F52E-39B3-4223-8403-AD9138D97AD9}|AppWebAlmacenCentral\\UI.csproj|c:\\users\\jerson\\desktop\\admin.git.c\\proj_exa_c-\\webalmacencentral\\appwebalmacencentral\\proveedoreditar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E7F52E-39B3-4223-8403-AD9138D97AD9}|AppWebAlmacenCentral\\UI.csproj|solutionrelative:appwebalmacencentral\\proveedoreditar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E7F52E-39B3-4223-8403-AD9138D97AD9}|AppWebAlmacenCentral\\UI.csproj|C:\\Users\\Jerson\\Desktop\\admin.git.C\\PROJ_EXA_C-\\WebAlmacenCentral\\appwebalmacencentral\\proveedorlistar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{34E7F52E-39B3-4223-8403-AD9138D97AD9}|AppWebAlmacenCentral\\UI.csproj|solutionrelative:appwebalmacencentral\\proveedorlistar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E7F52E-39B3-4223-8403-AD9138D97AD9}|AppWebAlmacenCentral\\UI.csproj|c:\\users\\jerson\\desktop\\admin.git.c\\proj_exa_c-\\webalmacencentral\\appwebalmacencentral\\proveedoreditar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{34E7F52E-39B3-4223-8403-AD9138D97AD9}|AppWebAlmacenCentral\\UI.csproj|solutionrelative:appwebalmacencentral\\proveedoreditar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE7E7A2-EB75-4362-A194-CD8370876914}|BE\\BE.csproj|c:\\users\\jerson\\desktop\\admin.git.c\\proj_exa_c-\\webalmacencentral\\be\\proveedorbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE7E7A2-EB75-4362-A194-CD8370876914}|BE\\BE.csproj|solutionrelative:be\\proveedorbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEEDC1E-DA74-4622-A5B3-1B4C9F0730BF}|DB\\DB.csproj|c:\\users\\jerson\\desktop\\admin.git.c\\proj_exa_c-\\webalmacencentral\\db\\connectiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EEEDC1E-DA74-4622-A5B3-1B4C9F0730BF}|DB\\DB.csproj|solutionrelative:db\\connectiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E7F52E-39B3-4223-8403-AD9138D97AD9}|AppWebAlmacenCentral\\UI.csproj|c:\\users\\jerson\\desktop\\admin.git.c\\proj_exa_c-\\webalmacencentral\\appwebalmacencentral\\proveedorlistar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E7F52E-39B3-4223-8403-AD9138D97AD9}|AppWebAlmacenCentral\\UI.csproj|solutionrelative:appwebalmacencentral\\proveedorlistar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E7F52E-39B3-4223-8403-AD9138D97AD9}|AppWebAlmacenCentral\\UI.csproj|C:\\Users\\Jerson\\Desktop\\admin.git.C\\PROJ_EXA_C-\\WebAlmacenCentral\\appwebalmacencentral\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{34E7F52E-39B3-4223-8403-AD9138D97AD9}|AppWebAlmacenCentral\\UI.csproj|solutionrelative:appwebalmacencentral\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProveedorBorrar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jerson\\Desktop\\admin.git.C\\PROJ_EXA_C-\\WebAlmacenCentral\\AppWebAlmacenCentral\\ProveedorBorrar.aspx.cs",
+              "RelativeDocumentMoniker": "AppWebAlmacenCentral\\ProveedorBorrar.aspx.cs",
+              "ToolTip": "C:\\Users\\Jerson\\Desktop\\admin.git.C\\PROJ_EXA_C-\\WebAlmacenCentral\\AppWebAlmacenCentral\\ProveedorBorrar.aspx.cs",
+              "RelativeToolTip": "AppWebAlmacenCentral\\ProveedorBorrar.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:03:55.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProveedorEditar.aspx",
+              "DocumentMoniker": "C:\\Users\\Jerson\\Desktop\\admin.git.C\\PROJ_EXA_C-\\WebAlmacenCentral\\AppWebAlmacenCentral\\ProveedorEditar.aspx",
+              "RelativeDocumentMoniker": "AppWebAlmacenCentral\\ProveedorEditar.aspx",
+              "ToolTip": "C:\\Users\\Jerson\\Desktop\\admin.git.C\\PROJ_EXA_C-\\WebAlmacenCentral\\AppWebAlmacenCentral\\ProveedorEditar.aspx",
+              "RelativeToolTip": "AppWebAlmacenCentral\\ProveedorEditar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-05T05:58:32.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProveedorEditar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jerson\\Desktop\\admin.git.C\\PROJ_EXA_C-\\WebAlmacenCentral\\AppWebAlmacenCentral\\ProveedorEditar.aspx.cs",
+              "RelativeDocumentMoniker": "AppWebAlmacenCentral\\ProveedorEditar.aspx.cs",
+              "ToolTip": "C:\\Users\\Jerson\\Desktop\\admin.git.C\\PROJ_EXA_C-\\WebAlmacenCentral\\AppWebAlmacenCentral\\ProveedorEditar.aspx.cs",
+              "RelativeToolTip": "AppWebAlmacenCentral\\ProveedorEditar.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:50:38.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProveedorBE.cs",
+              "DocumentMoniker": "C:\\Users\\Jerson\\Desktop\\admin.git.C\\PROJ_EXA_C-\\WebAlmacenCentral\\BE\\ProveedorBE.cs",
+              "RelativeDocumentMoniker": "BE\\ProveedorBE.cs",
+              "ToolTip": "C:\\Users\\Jerson\\Desktop\\admin.git.C\\PROJ_EXA_C-\\WebAlmacenCentral\\BE\\ProveedorBE.cs",
+              "RelativeToolTip": "BE\\ProveedorBE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:22:12.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProveedorListar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jerson\\Desktop\\admin.git.C\\PROJ_EXA_C-\\WebAlmacenCentral\\AppWebAlmacenCentral\\ProveedorListar.aspx.cs",
+              "RelativeDocumentMoniker": "AppWebAlmacenCentral\\ProveedorListar.aspx.cs",
+              "ToolTip": "C:\\Users\\Jerson\\Desktop\\admin.git.C\\PROJ_EXA_C-\\WebAlmacenCentral\\AppWebAlmacenCentral\\ProveedorListar.aspx.cs",
+              "RelativeToolTip": "AppWebAlmacenCentral\\ProveedorListar.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:20:46.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConnectionDB.cs",
+              "DocumentMoniker": "C:\\Users\\Jerson\\Desktop\\admin.git.C\\PROJ_EXA_C-\\WebAlmacenCentral\\DB\\ConnectionDB.cs",
+              "RelativeDocumentMoniker": "DB\\ConnectionDB.cs",
+              "ToolTip": "C:\\Users\\Jerson\\Desktop\\admin.git.C\\PROJ_EXA_C-\\WebAlmacenCentral\\DB\\ConnectionDB.cs",
+              "RelativeToolTip": "DB\\ConnectionDB.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:45:55.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Jerson\\Desktop\\admin.git.C\\PROJ_EXA_C-\\WebAlmacenCentral\\AppWebAlmacenCentral\\Site.Master",
+              "RelativeDocumentMoniker": "AppWebAlmacenCentral\\Site.Master",
+              "ToolTip": "C:\\Users\\Jerson\\Desktop\\admin.git.C\\PROJ_EXA_C-\\WebAlmacenCentral\\AppWebAlmacenCentral\\Site.Master",
+              "RelativeToolTip": "AppWebAlmacenCentral\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-05T04:28:11.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProveedorBL.cs",
+              "DocumentMoniker": "C:\\Users\\Jerson\\Desktop\\admin.git.C\\PROJ_EXA_C-\\WebAlmacenCentral\\BL\\ProveedorBL.cs",
+              "RelativeDocumentMoniker": "BL\\ProveedorBL.cs",
+              "ToolTip": "C:\\Users\\Jerson\\Desktop\\admin.git.C\\PROJ_EXA_C-\\WebAlmacenCentral\\BL\\ProveedorBL.cs",
+              "RelativeToolTip": "BL\\ProveedorBL.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAH4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:53:17.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProveedorListar.aspx",
+              "DocumentMoniker": "C:\\Users\\Jerson\\Desktop\\admin.git.C\\PROJ_EXA_C-\\WebAlmacenCentral\\AppWebAlmacenCentral\\ProveedorListar.aspx",
+              "RelativeDocumentMoniker": "AppWebAlmacenCentral\\ProveedorListar.aspx",
+              "ToolTip": "C:\\Users\\Jerson\\Desktop\\admin.git.C\\PROJ_EXA_C-\\WebAlmacenCentral\\AppWebAlmacenCentral\\ProveedorListar.aspx",
+              "RelativeToolTip": "AppWebAlmacenCentral\\ProveedorListar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-05T03:51:52.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\WebAlmacenCentral\BE\bin\Debug\BE.dll
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\WebAlmacenCentral\BE\bin\Debug\BE.pdb
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\WebAlmacenCentral\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\WebAlmacenCentral\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\WebAlmacenCentral\BE\obj\Debug\BE.dll
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\WebAlmacenCentral\BE\obj\Debug\BE.pdb
