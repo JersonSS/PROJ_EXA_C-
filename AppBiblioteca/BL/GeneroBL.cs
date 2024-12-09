@@ -171,7 +171,7 @@ namespace BL
 
                 //SQL insert
                 SqlCommand sqlCommand = sqlConnection.CreateCommand();
-                sqlCommand.CommandText = "select * from Generos where ID=@ID";
+                sqlCommand.CommandText = "select * from Libros where IdGenero=@ID";
 
                 //Load parameters
                 sqlCommand.Parameters.AddWithValue("@ID", generoID);

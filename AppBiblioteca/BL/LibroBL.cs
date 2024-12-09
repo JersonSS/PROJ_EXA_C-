@@ -183,7 +183,7 @@ namespace BL
 
                 //SQL insert
                 SqlCommand sqlCommand = sqlConnection.CreateCommand();
-                sqlCommand.CommandText = "select * from Libros where ISBN=@ISBN";
+                sqlCommand.CommandText = "select * from LibrosAutores where ISBN=@ISBN";
 
                 //Load parameters
                 sqlCommand.Parameters.AddWithValue("@ISBN", isbnID);
