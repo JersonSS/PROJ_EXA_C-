@@ -18,25 +18,29 @@ namespace DB
             //servidor senati
             //builder.DataSource = "Admin";
 
-            //servidor yo
-            //builder.DataSource = "DESKTOP-S98UCTP\\SQLEXPRESS"; 
+            //servidor sin autententicacion windows 
+            //builder.DataSource = "DESKTOP-S98UCTP\\SQLEXPRESS";
+
+            //servidor con autententicacion windows 
+            builder.DataSource = "DESKTOP-S98UCTP\\SQLEXPRESS";
+
 
             //base de datos
             builder.InitialCatalog = "Biblioteca";
 
             //usuario y contraseña senati
-            builder.UserID = "sa";
-            builder.Password = "123";
+            //builder.UserID = "sa";
+            //builder.Password = "123";
 
             //usuario y contraseña yo
             //builder.UserID = "jersonss";
             //builder.Password = "1234";
 
             //login SQL Server Authentication
-            builder.IntegratedSecurity = false;
+            //builder.IntegratedSecurity = false;
 
             //login windows SQL Server Authentication
-            //builder.IntegratedSecurity = true;
+            builder.IntegratedSecurity = true;
 
             return builder.ToString();
         }

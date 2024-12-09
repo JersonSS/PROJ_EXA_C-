@@ -32,28 +32,45 @@ namespace UI
 
         protected void btnGuardar_Click(object sender, EventArgs e)
         {
-            if (Page.IsValid)
+            //si esta autenticado
+            if (User.Identity.IsAuthenticated)
             {
-                //entrada
-                string apellido = txtApellido.Text;
-                string nombre = txtNombre.Text;
-                DateTime fechaNacimiento = Convert.ToDateTime(txtFechaNacimiento.Text);
+                if (User.IsInRole("USER"))
+                {
+                    if (Page.IsValid)
+                    {
+                        //entrada
+                        string apellido = txtApellido.Text;
+                        string nombre = txtNombre.Text;
+                        DateTime fechaNacimiento = Convert.ToDateTime(txtFechaNacimiento.Text);
 
 
-                int nacionalidad = Convert.ToInt32(ddlNacionalidad.SelectedValue.ToString());
+                        int nacionalidad = Convert.ToInt32(ddlNacionalidad.SelectedValue.ToString());
 
-                //proceso
-                AutorBE autorBE = new AutorBE(apellido, nombre, fechaNacimiento, nacionalidad);
-                autorBL.insert(autorBE);
+                        //proceso
+                        AutorBE autorBE = new AutorBE(apellido, nombre, fechaNacimiento, nacionalidad);
+                        autorBL.insert(autorBE);
 
 
-                //salida
-                Response.Redirect("~/Default");
+                        //salida
+                        Response.Redirect("~/Default");
+                    }
+                    else
+                    {
+                        MessageBox("Error,campo no validados");
+                    }
+
+                }
+                else
+                {
+                    MessageBox("Error, su rol no se lo permite");
+                }
+
             }
-            else {
-                MessageBox("Error,campo no validados");
+            else 
+            {
+                MessageBox("Error, deber iniciar sesión");
             }
-            
 
 
         }

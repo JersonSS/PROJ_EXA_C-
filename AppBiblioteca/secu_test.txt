@@ -1,0 +1,17 @@
+insert into AspNetRoles values (1,'ADMIN');
+insert into AspNetRoles values (2,'USER');
+ 
+declare @id nvarchar(128);
+ 
+select @id=id from AspNetUsers where UserName='ejemplo01@gmail.com';
+insert into AspNetUserRoles(UserId,RoleId) values (@id,1);
+ 
+select @id=id from AspNetUsers where UserName='ejemplo02@gmail.com';
+insert into AspNetUserRoles(UserId,RoleId) values (@id,2);
+ 
+select @id=id from AspNetUsers where UserName='ejemplo03@gmail.com';
+insert into AspNetUserRoles(UserId,RoleId) values (@id,2);
+ 
+select Id, UserName,PasswordHash from AspNetUsers order by UserName
+ 
+select * from AspNetRoles;

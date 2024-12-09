@@ -20,3 +20,14 @@ C:\Users\Senati\Desktop\project visual studio\PROJ_EXA_C-\AppBiblioteca\BL\obj\D
 C:\Users\Senati\Desktop\project visual studio\PROJ_EXA_C-\AppBiblioteca\BL\obj\Debug\BL.csproj.Up2Date
 C:\Users\Senati\Desktop\project visual studio\PROJ_EXA_C-\AppBiblioteca\BL\obj\Debug\BL.dll
 C:\Users\Senati\Desktop\project visual studio\PROJ_EXA_C-\AppBiblioteca\BL\obj\Debug\BL.pdb
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\AppBiblioteca\BL\bin\Debug\BL.dll
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\AppBiblioteca\BL\bin\Debug\BL.pdb
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\AppBiblioteca\BL\bin\Debug\BE.dll
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\AppBiblioteca\BL\bin\Debug\DB.exe
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\AppBiblioteca\BL\bin\Debug\BE.pdb
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\AppBiblioteca\BL\bin\Debug\DB.pdb
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\AppBiblioteca\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\AppBiblioteca\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\AppBiblioteca\BL\obj\Debug\BL.csproj.Up2Date
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\AppBiblioteca\BL\obj\Debug\BL.dll
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\AppBiblioteca\BL\obj\Debug\BL.pdb

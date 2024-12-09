@@ -10,7 +10,7 @@ using BL;
 
 namespace UI
 {
-    public partial class AutorListar : System.Web.UI.Page
+    public partial class AutorListar : Utilidades
     {
         //referencia
         private AutorBL autorBL = new AutorBL();    
@@ -21,11 +21,18 @@ namespace UI
         {
             if (!IsPostBack)
             {
-
-                gvAutores.DataSource = autorBL.FindAll();
-                gvAutores.DataBind();//haga el efecto de mostrar los actores en la pagina
+                if (User.Identity.IsAuthenticated) {
+                    gvAutores.DataSource = autorBL.FindAll();
+                    gvAutores.DataBind();//haga el efecto de mostrar los actores en la pagina
+                }
+                else
+                {
+                    MessageBox("Error, debe iniciar sesión primero.");
+                }
 
             }
+            
+
         }
 
         protected void gvAutores_PageIndexChanging(object sender, GridViewPageEventArgs e)

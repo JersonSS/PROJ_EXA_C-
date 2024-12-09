@@ -35,18 +35,35 @@ namespace UI
 
         protected void btnBorrar_Click(object sender, EventArgs e)
         {
-            int ID = Convert.ToInt32(txtID.Text);
+            //si esta autenticado
+            if (User.Identity.IsAuthenticated)
+            {
+                if (User.IsInRole("ADMIN"))
+                {
+                    int ID = Convert.ToInt32(txtID.Text);
 
-            bool isDelete = autorBL.isDelete(ID);
-            if (!isDelete)
-            {
-                autorBL.delete(ID);
-                Response.Redirect("~/AutorListar");
+                    bool isDelete = autorBL.isDelete(ID);
+                    if (!isDelete)
+                    {
+                        autorBL.delete(ID);
+                        Response.Redirect("~/AutorListar");
+                    }
+                    else
+                    {
+                        MessageBox("Error, no se puede por que esta asociado");
+                    }
+                }
+                else
+                {
+                    MessageBox("Error, su rol no se le permite");
+                }
             }
-            else
+            else 
             {
-                MessageBox("Error, no se puede por que esta asociado");
+                MessageBox("Error, debe iniciar sesión primero.");
             }
+
+            
         }
     }
 }

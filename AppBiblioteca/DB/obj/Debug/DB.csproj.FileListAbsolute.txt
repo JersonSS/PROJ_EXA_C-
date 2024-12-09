@@ -16,3 +16,9 @@ C:\Users\Senati\Desktop\project visual studio\PROJ_EXA_C-\AppBiblioteca\DB\obj\D
 C:\Users\Senati\Desktop\project visual studio\PROJ_EXA_C-\AppBiblioteca\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
 C:\Users\Senati\Desktop\project visual studio\PROJ_EXA_C-\AppBiblioteca\DB\obj\Debug\DB.exe
 C:\Users\Senati\Desktop\project visual studio\PROJ_EXA_C-\AppBiblioteca\DB\obj\Debug\DB.pdb
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\AppBiblioteca\DB\bin\Debug\DB.exe
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\AppBiblioteca\DB\bin\Debug\DB.pdb
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\AppBiblioteca\DB\obj\Debug\DB.csproj.AssemblyReference.cache
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\AppBiblioteca\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\AppBiblioteca\DB\obj\Debug\DB.exe
+C:\Users\Jerson\Desktop\admin.git.C\PROJ_EXA_C-\AppBiblioteca\DB\obj\Debug\DB.pdb
